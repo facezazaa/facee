@@ -7,11 +7,11 @@ st.header("การนำเสนอข้อมูลกราฟด้วย
 col1,col2,col3 = st.columns(3)
 with col1:
     st.header("Versicolor")
-    st.image("https://en.m.wikipedia.org/wiki/File:Symphyotrichum_%C3%97_versicolor.jpg")
+    st.image("./image/color.jpg")
 with col2:
     st.header("Verginica")
-    st.image("https://commons.wikimedia.org/wiki/File:Fire_Pink_Silene_virginica_Flower_2391px.jpg")
+    st.image("./image/ver.jpg")
 with col3:
     st.header("Setosa")
-     st.image("https://commons.wikimedia.org/wiki/File:Wild_iris_flower_iris_setosa.jpg")
+     st.image("./image/set.jpg")
 
