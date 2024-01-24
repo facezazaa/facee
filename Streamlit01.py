@@ -13,5 +13,5 @@ with col2:
     st.image("./image/ver.jpg")
 with col3:
     st.header("Setosa")
-     st.image("./image/set.jpg")
+     st.image("./image/set.jpg").
 
