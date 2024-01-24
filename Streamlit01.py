@@ -5,13 +5,14 @@ st.image("data.jpeg")
 st.header("การนำเสนอข้อมูลกราฟด้วย Python") 
 
 col1,col2,col3 = st.columns(3)
+
 with col1:
     st.header("Versicolor")
-    st.image("./image/color.jpg")
+    st.image("./img2/color.jpg")
 with col2:
     st.header("Verginica")
-    st.image("./image/ver.jpg")
+    st.image("./img2/ver.jpg")
 with col3:
     st.header("Setosa")
-    st.image("./image/set.jpg")
+    st.image("./img2/set.jpg")
 
