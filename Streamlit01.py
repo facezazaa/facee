@@ -7,12 +7,12 @@ st.header("การนำเสนอข้อมูลกราฟด้วย
 col1,col2,col3 = st.columns(3)
 
 with col1:
-    st.header("Versicolor")
-    st.image("./img2/color.jpg")
+ st.header("Versicolor")
+ st.image("./img2/color.jpg")
 with col2:
-    st.header("Verginica")
-    st.image("./img2/ver.jpg")
+ st.header("Verginica")
+ st.image("./img2/ver.jpg")
 with col3:
-    st.header("Setosa")
-    st.image("./img2/set.jpg")
+ st.header("Setosa")
+ st.image("./img2/set.jpg")
 
